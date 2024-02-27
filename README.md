@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Shrikanth 
-- 👀 I’m interested in Machine learning 
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning HTML
 
 <!---
 Srizzz003/Srizzz003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
